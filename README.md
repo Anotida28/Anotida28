@@ -1,15 +1,4 @@
-## Hi there 👋
 
-<!--
-**Anotida28/Anotida28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about # 💫 About Me:
 ## About Me<br><br>👋 Hi there! My name is **Lourence Ruhwaya**, and I'm passionate about **cybersecurity** and **project management**.<br><br>### 🚀 My Journey<br>I started coding when I was in high school, and since then, I've become a computer science student at the **Zimbabwe National University of Science and Technology**.<br><br>### 💻 Skills<br>- **Languages:** Java<br>- **Frameworks:** Spring (Java), Hibernate (Java)<br>- **Tools:** Git, Docker, JIRA<br><br>### 🌱 Currently Learning<br>I'm currently diving into advanced cybersecurity concepts and project management methodologies.<br><br>### 🌍 Connect with Me<br>Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/lourence-ruhwaya)! I'm always open to collaborating on exciting projects or discussing new ideas.<br><br>### 🔭 Looking for Opportunities<br>I'm actively looking for opportunities as a **remote IT specialist intern**. I am also Google certified!<br><br>Thanks for stopping by! 🚀
 
 
