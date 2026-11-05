@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Lourence Ruhwaya 👋</h1>
 
 <p align="center">
-  <b>Final-year Computer Science student @ NUST Zimbabwe</b><br/>
+  <b>Full-stack developer · Final-year Computer Science student @ NUST Zimbabwe</b><br/>
   Backend systems · Fintech integrations · Conversational & applied AI · Cybersecurity
 </p>
 
 <p align="center">
   <a href="https://lourencerush.dev"><img src="https://img.shields.io/badge/Portfolio-lourencerush.dev-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/lourence-ruhwaya-a61884254/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.credly.com/users/lourence-ruhwaya"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=flat-square&logo=credly&logoColor=white"/></a>
   <a href="mailto:rushanotida@gmail.com"><img src="https://img.shields.io/badge/Email-rushanotida%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -15,8 +16,8 @@
 
 ### 🧭 About me
 
-- 🎓 Final year of a BSc (Hons) in Computer Science at **NUST**, graduating **2027**
-- 🏦 Just finished a 13-month industrial attachment at **Old Mutual Digital Services**, building on the **Omari** digital payments platform (3M+ users)
+- 🎓 Final year of a BSc (Hons) in Computer Science at **NUST** (GPA 3.39), graduating **2027**
+- 🏦 Just finished a 13-month industrial attachment at **Old Mutual Zimbabwe**, building on the **Omari** digital payments platform (3M+ users)
 - 🔨 Currently building my final-year project: a **WhatsApp/Telegram messaging gateway** for university enquiries and automated admissions
 - 💼 Run a small digital services business: websites and Meta/WhatsApp automation for local businesses
 - 📍 Gweru, Zimbabwe (UTC+2) · open to **remote internships and graduate roles**
@@ -25,29 +26,28 @@
 
 ### 💼 Experience
 
-**Software Developer (Industrial Attachment) · Old Mutual Digital Services — Omari**  
+**IT & Software Development Intern · Old Mutual Zimbabwe — Omari**  
 *Aug 2025 – Aug 2026 · Zimbabwe*
 
-- Delivered **six internal systems end-to-end**: IT ticketing, OMCard stock management, Trolley Dash loyalty platform, remittance centre performance tracker, wallet analytics dashboard, and agent & merchant onboarding
-- Supported **30+ partner integrations** (including ZIMRA) and three UAT release cycles for the Omari mobile app
-- Authored UAT sign-off for the Omari Agent API upgrade (v2 → v2.2.0)
+- Delivered **six internal systems end-to-end**: IT help desk ticketing, OMCard stock and asset management, the Trolley Dash loyalty platform, a remittance centre performance tracker, a wallet analytics dashboard, and the merchant and agent onboarding portal
+- Supported **30+ merchant, partner and bank integrations** (ZB Bank, POSB, Stanbic, ZIMRA): API key provisioning, UAT support and live troubleshooting of failed transactions
+- Ran UAT across three Omari mobile app releases and authored the UAT sign-off for the Omari Agent API upgrade (v2 → v2.2.0)
+- Administered the corporate Google Workspace domain: user provisioning, permissions and security monitoring
 
 **Student Intern · Cliopatra Graphics**  
 *Dec 2024 – Feb 2025 · Witbank, South Africa*
 
-- Built client web systems in Django and React with payment-gateway integrations, admin dashboards and client onboarding flows
+- Built client websites in Django and React, plus branding and marketing material for multiple client accounts
 
 ---
 
-### 🛠️ What I'm building
+### 🚀 Featured projects (live)
 
-| Project | What it is | Stack |
+| Client | What I built | Link |
 |---|---|---|
-| 🎓 **University Messaging Gateway** *(final-year project, in progress)* | Chatbot over WhatsApp, Telegram & Messenger that answers yearbook/regulation questions, screens applicants against programme cut-offs, takes document uploads and issues tracking references. Hybrid NLU: trained intent classifier with a small local LLM fallback, plus a staff triage dashboard | Python · FastAPI · PostgreSQL · React · Tailwind · Docker · Ollama |
-| 📶 **QikNet** | WiFi voucher sales and access-management system for hotspot operators | Node.js · TypeScript · Express · MySQL |
-| 🛡️ **Scam Check Bot** *(Cyber Shield Zimbabwe Hackathon 2026)* | Forward a suspicious message to a WhatsApp bot and get a scam-risk verdict back | WhatsApp API · Python |
-| 🛰️ **OreTrace** *(MineTech Innovation Challenge 2026 concept)* | Satellite imagery + AI change detection to independently verify mining activity for traceability and environmental monitoring | Python · Remote sensing · ML |
-| 🌿 [**AI Plant Disease Detection**](https://github.com/Anotida28/AI_Plant_Disease_Prediction) | Image classifier that helps farmers spot crop disease early | Python · Keras · OpenCV |
+| ⚙️ **Saint Prince** | Company site for a Gauteng engineering firm that services turbines, pumps and gearboxes and manufactures heat exchangers | [saint-prince-juz6.vercel.app](https://saint-prince-juz6.vercel.app/) |
+| ⚡ **Libratech Electrical** | Business site for a Gweru electrical contractor and retailer, with quote requests and WhatsApp integration | [libratech-2-0.vercel.app](https://libratech-2-0.vercel.app/) |
+| 🏗️ **Gramlex Investments** | Site for a Zimbabwean steel reinforcement and infrastructure supplier | [gramlex-steel-solutions.vercel.app](https://gramlex-steel-solutions.vercel.app/) |
 
 ---
 
@@ -69,12 +69,16 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
 **Data, infra & tooling**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
@@ -84,12 +88,12 @@
 
 ### 📜 Certifications
 
-- Google IT Support Professional Certificate
-- Google AI Essentials · IBM AI Fundamentals
-- IBM DevOps Essentials · Containers & Kubernetes Essentials
-- Cisco Network Technician · Cisco Ethical Hacker
-- CompTIA Cloud+
-  
+- **Cloud & DevOps:** CompTIA Cloud+ · IBM DevOps Essentials · IBM Containers & Kubernetes Essentials · IBM Application Development using Microservices and Serverless
+- **Security & networking:** Cisco Ethical Hacker · Cisco Network Technician Career Path · Cisco Introduction to Cybersecurity
+- **IT & AI:** Google IT Support Professional Certificate · Google AI Essentials · IBM Artificial Intelligence Fundamentals
+- **Ways of working:** IBM Introduction to Agile Development and Scrum
+
+Verified badges on [Credly](https://www.credly.com/users/lourence-ruhwaya).
 
 ---
 
